@@ -1,0 +1,22 @@
+{
+  "name": "nodeassign",
+  "version": "1.0.0",
+  "description": "Node Assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Assignment",
+    "zomato"
+  ],
+  "author": "Anil chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.6.0",
+    "nodemon": "^3.0.1"
+  }
+}
